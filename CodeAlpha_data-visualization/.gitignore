@@ -1,0 +1,18 @@
+# Python cache
+_pycache_/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+venv/
+.env/
+
+# Output files (optional but recommended)
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
