@@ -4,8 +4,28 @@ Each folder represents an individual task assigned during the internship, focusi
 
 
 ## 📂 Repository Structure
-
-codealpha_tasks/ │ ├── CodeAlpha_data-visualization/ │   ├── data/ │   │   ├── raw/ │   │   └── processed/ │   ├── src/ │   │   ├── data_cleaning.py │   │   └── visualization.py │   ├── main.py │   ├── requirements.txt │   └── README.md │ ├── CodeAlpha_web-scraping-project/ │   ├── scraper.py │   ├── population_data.csv │   ├── requirements.txt │   └── README.md │ └── README.md
+```
+codealpha_tasks/
+│
+├── CodeAlpha_data-visualization/
+│   ├── data/
+│   │   ├── raw/
+│   │   └── processed/
+│   ├── src/
+│   │   ├── data_cleaning.py
+│   │   └── visualization.py
+│   ├── main.py
+│   ├── requirements.txt
+│   └── README.md
+│
+├── CodeAlpha_web-scraping-project/
+│   ├── scraper.py
+│   ├── population_data.csv
+│   ├── requirements.txt
+│   └── README.md
+│
+└── README.md
+```
 
 ## Technologies Used
 - Python
@@ -13,6 +33,8 @@ codealpha_tasks/ │ ├── CodeAlpha_data-visualization/ │   ├── dat
 - Matplotlib
 - BeautifulSoup
 
+```
 #Author
 Aishwarya Mule
 GitHub: aishwaryamule-29
+```
